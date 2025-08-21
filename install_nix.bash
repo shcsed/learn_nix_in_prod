@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 URL='https://nixos.org/nix/install'
 CONFIGURATION="
 extra-experimental-features = nix-command flakes
